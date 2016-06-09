@@ -1,5 +1,5 @@
 # jStocks
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/kediumm/jstocks/master/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/kediumm/jstocks/LICENSE)
 
 # Overview
 This repository houses the source code for jStocks.
