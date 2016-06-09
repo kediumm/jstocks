@@ -11,7 +11,7 @@ The quick start gives very basic example of running client and server on the sam
 
 > The minimum requirements to run the quick start are: 
 >  * JDK 1.7 or above
->  * A java-based project management software like [Maven][maven]
+>  * A java-based project management software like [Maven](https://maven.apache.org)
 
 # Documents
 
@@ -21,4 +21,3 @@ The quick start gives very basic example of running client and server on the sam
 
 jStocks is released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-[maven]:https://maven.apache.org
