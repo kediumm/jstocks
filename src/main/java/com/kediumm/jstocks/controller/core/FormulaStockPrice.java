@@ -16,6 +16,9 @@
  * @author: Miguel Vale Teixeira
  * @data: 2016/01/16
  * 
+ * This source code is intended for educational and illustrative purposes only
+ * and is provided AS-IS without warranty of any kind.
+ * 
  */
 package com.kediumm.jstocks.controller.core;
 
